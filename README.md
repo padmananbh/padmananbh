@@ -1,4 +1,4 @@
-### Hi there 👋, I am Tanish Pophale
+### Hi there 👋, I am Padmanabh Parkhi
 
 <!--
 **tanishpophale53/tanishpophale53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
